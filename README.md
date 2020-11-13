@@ -1,1 +1,1 @@
-This is a file tracking system with the Python Watchdogs library. It keep track of the files you delete, modify, rename or create and gives you live indications while the program is running. As soon as you run the program it will display you ll the changes that had taken place when the program was not running.
+This is a file tracking system with the Python Watchdogs library. It keep track of the files you delete, modify, rename or create and gives you live indications while the program is running. This program will give the feel of a real ###WATCHDOGS HACKER
