@@ -1,0 +1,1 @@
+ls --progs to command on the shell. custom bash command
